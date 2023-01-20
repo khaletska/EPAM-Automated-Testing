@@ -1,0 +1,8 @@
+1. /a.b/g
+
+2. /2 \+ 3/ 
+
+3.  const now = new Date(); 
+    console.log(now.getDate()); 
+    console.log(now.getMonth()+1); 
+    console.log(now.getFullYear());
